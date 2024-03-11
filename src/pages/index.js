@@ -41,7 +41,7 @@ export default function Home() {
             </div>
             <div className="flex w-1/2 flex-col items-center self-center lg:w-full lg:text-center">
               <AnimatedText
-                text="I'm Pheakdey"
+                text="I'm SoRatha"
                 className="!text-left  xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-purple-700 to-pink-600"
               />
               <p className="my-4 text-xl  font-medium md:text-sm sm:!text-xs  ">
